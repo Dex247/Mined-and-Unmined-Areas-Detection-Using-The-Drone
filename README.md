@@ -1,4 +1,4 @@
-# Tensorflow Object Detection Walkthrough
+# Mined and Unmined Areas Detection. The Walkthrough
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. 
 <img src="https://user-images.githubusercontent.com/38394300/194756817-53ebbb4f-407c-43ab-84bf-497535eca636.JPG">
 <img src="https://user-images.githubusercontent.com/38394300/194757687-cb879168-fa57-41ed-9425-c11eabf1b24c.JPG">
